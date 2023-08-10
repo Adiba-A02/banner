@@ -1,0 +1,39 @@
+header{
+    background-color: darksalmon;
+    height: 800px;
+    width: 100%;
+    margin-top: 30px;
+
+}
+.icon-search{
+    list-style: none;
+       margin-right: 20px;
+    color:rgb(129, 53, 9);  
+}
+.icon-contact{
+    list-style: none;
+      margin-right: 20px;
+    color:rgb(129, 53, 9); 
+
+}
+.d-flex-icon{
+    display: flex;
+    align-items: center;
+
+}
+.d-flex-icon input{
+    border: 1px;
+    border-style: none;
+    border-radius: 15px;
+    background-color: rgb(235, 202, 159);
+    padding: 2px 8px;
+}
+.icon-home{
+    list-style: none;
+    color:rgb(129, 53, 9); 
+    margin-left: 40px;
+    margin-right: 80px;
+}
+ul li{
+    margin-right: 20px;
+}
